@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\learnings\\back\\c#-learning\\repos\\bytebank\\bytebank\\bytebank.csproj": {}
+    "E:\\learnings\\back\\CSharp-learning\\repos\\bytebank\\bytebank\\bytebank.csproj": {}
   },
   "projects": {
-    "E:\\learnings\\back\\c#-learning\\repos\\bytebank\\bytebank\\bytebank.csproj": {
+    "E:\\learnings\\back\\CSharp-learning\\repos\\bytebank\\bytebank\\bytebank.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\learnings\\back\\c#-learning\\repos\\bytebank\\bytebank\\bytebank.csproj",
+        "projectUniqueName": "E:\\learnings\\back\\CSharp-learning\\repos\\bytebank\\bytebank\\bytebank.csproj",
         "projectName": "bytebank",
-        "projectPath": "E:\\learnings\\back\\c#-learning\\repos\\bytebank\\bytebank\\bytebank.csproj",
+        "projectPath": "E:\\learnings\\back\\CSharp-learning\\repos\\bytebank\\bytebank\\bytebank.csproj",
         "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
-        "outputPath": "E:\\learnings\\back\\c#-learning\\repos\\bytebank\\bytebank\\obj\\",
+        "outputPath": "E:\\learnings\\back\\CSharp-learning\\repos\\bytebank\\bytebank\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

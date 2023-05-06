@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace bytebank
+namespace bytebank.Models
 {
     public class ContaCorrente
     {
@@ -18,28 +18,28 @@ namespace bytebank
 
         public void Deposit(double value)
         {
-            this.saldo += value;
+            saldo += value;
         }
 
         public void Withdraw(double amount)
         {
-            this.ValidateIfAmmountIsValid(amount, VALOR_INDISPONIVEL_PARA_SAQUE);
+            ValidateIfAmmountIsValid(amount, VALOR_INDISPONIVEL_PARA_SAQUE);
             saldo -= amount;
         }
 
         public bool Transfer(double amount, ContaCorrente account)
         {
-            this.ValidateIfAmmountIsValid(amount, VALOR_INDISPONIVEL_PARA_TRASNFERENCIA);
+            ValidateIfAmmountIsValid(amount, VALOR_INDISPONIVEL_PARA_TRASNFERENCIA);
 
 
             account.saldo += amount;
-            this.Withdraw(amount);
+            Withdraw(amount);
             return true;
         }
 
         internal void ValidateIfAmmountIsValid(double amount, string message)
         {
-            if (amount > this.saldo)
+            if (amount > saldo)
             {
                 throw new Exception(message);
             }

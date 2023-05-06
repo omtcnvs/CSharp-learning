@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l2tunTXmlh4/Hkfn1mf3RJNAEHe5DCiBlAsnJA73mYwRQJAgInpptOBdEK/A412UQIxUiRMEHpo5H7vKVP4SqA==",
+  "dgSpecHash": "H+NsDXdGEZ6G1Up8IaN4tdf2mn5P2gC61HTOb1YxTln97YpRZn++u1TdXaFc3dTFCWdxr1E/tklB7sY0lYQPyQ==",
   "success": true,
-  "projectFilePath": "E:\\learnings\\back\\c#-learning\\repos\\bytebank\\bytebank\\bytebank.csproj",
+  "projectFilePath": "E:\\learnings\\back\\CSharp-learning\\repos\\bytebank\\bytebank\\bytebank.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

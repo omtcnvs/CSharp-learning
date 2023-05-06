@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace bytebank
+namespace bytebank.Models
 {
     public class Cliente
     {
@@ -14,9 +14,9 @@ namespace bytebank
 
         public Cliente(string nome, string email, string profissao)
         {
-            this.Nome = nome;
-            this.Email = email;
-            this.Profissao = profissao;
+            Nome = nome;
+            Email = email;
+            Profissao = profissao;
         }
 
 
