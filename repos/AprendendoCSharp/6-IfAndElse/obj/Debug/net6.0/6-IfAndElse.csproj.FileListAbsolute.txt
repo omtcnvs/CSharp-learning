@@ -1,0 +1,15 @@
+E:\learnings\back\c#-learning\repos\AprendendoCSharp\6-IfAndElse\bin\Debug\net6.0\6-IfAndElse.exe
+E:\learnings\back\c#-learning\repos\AprendendoCSharp\6-IfAndElse\bin\Debug\net6.0\6-IfAndElse.deps.json
+E:\learnings\back\c#-learning\repos\AprendendoCSharp\6-IfAndElse\bin\Debug\net6.0\6-IfAndElse.runtimeconfig.json
+E:\learnings\back\c#-learning\repos\AprendendoCSharp\6-IfAndElse\bin\Debug\net6.0\6-IfAndElse.dll
+E:\learnings\back\c#-learning\repos\AprendendoCSharp\6-IfAndElse\bin\Debug\net6.0\6-IfAndElse.pdb
+E:\learnings\back\c#-learning\repos\AprendendoCSharp\6-IfAndElse\obj\Debug\net6.0\6-IfAndElse.csproj.AssemblyReference.cache
+E:\learnings\back\c#-learning\repos\AprendendoCSharp\6-IfAndElse\obj\Debug\net6.0\6-IfAndElse.GeneratedMSBuildEditorConfig.editorconfig
+E:\learnings\back\c#-learning\repos\AprendendoCSharp\6-IfAndElse\obj\Debug\net6.0\6-IfAndElse.AssemblyInfoInputs.cache
+E:\learnings\back\c#-learning\repos\AprendendoCSharp\6-IfAndElse\obj\Debug\net6.0\6-IfAndElse.AssemblyInfo.cs
+E:\learnings\back\c#-learning\repos\AprendendoCSharp\6-IfAndElse\obj\Debug\net6.0\6-IfAndElse.csproj.CoreCompileInputs.cache
+E:\learnings\back\c#-learning\repos\AprendendoCSharp\6-IfAndElse\obj\Debug\net6.0\6-IfAndElse.dll
+E:\learnings\back\c#-learning\repos\AprendendoCSharp\6-IfAndElse\obj\Debug\net6.0\refint\6-IfAndElse.dll
+E:\learnings\back\c#-learning\repos\AprendendoCSharp\6-IfAndElse\obj\Debug\net6.0\6-IfAndElse.pdb
+E:\learnings\back\c#-learning\repos\AprendendoCSharp\6-IfAndElse\obj\Debug\net6.0\6-IfAndElse.genruntimeconfig.cache
+E:\learnings\back\c#-learning\repos\AprendendoCSharp\6-IfAndElse\obj\Debug\net6.0\ref\6-IfAndElse.dll

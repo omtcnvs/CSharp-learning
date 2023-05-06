@@ -1,0 +1,15 @@
+E:\learnings\back\c#-learning\repos\AprendendoCSharp\7-Loops\bin\Debug\net6.0\7-Loops.exe
+E:\learnings\back\c#-learning\repos\AprendendoCSharp\7-Loops\bin\Debug\net6.0\7-Loops.deps.json
+E:\learnings\back\c#-learning\repos\AprendendoCSharp\7-Loops\bin\Debug\net6.0\7-Loops.runtimeconfig.json
+E:\learnings\back\c#-learning\repos\AprendendoCSharp\7-Loops\bin\Debug\net6.0\7-Loops.dll
+E:\learnings\back\c#-learning\repos\AprendendoCSharp\7-Loops\bin\Debug\net6.0\7-Loops.pdb
+E:\learnings\back\c#-learning\repos\AprendendoCSharp\7-Loops\obj\Debug\net6.0\7-Loops.csproj.AssemblyReference.cache
+E:\learnings\back\c#-learning\repos\AprendendoCSharp\7-Loops\obj\Debug\net6.0\7-Loops.GeneratedMSBuildEditorConfig.editorconfig
+E:\learnings\back\c#-learning\repos\AprendendoCSharp\7-Loops\obj\Debug\net6.0\7-Loops.AssemblyInfoInputs.cache
+E:\learnings\back\c#-learning\repos\AprendendoCSharp\7-Loops\obj\Debug\net6.0\7-Loops.AssemblyInfo.cs
+E:\learnings\back\c#-learning\repos\AprendendoCSharp\7-Loops\obj\Debug\net6.0\7-Loops.csproj.CoreCompileInputs.cache
+E:\learnings\back\c#-learning\repos\AprendendoCSharp\7-Loops\obj\Debug\net6.0\7-Loops.dll
+E:\learnings\back\c#-learning\repos\AprendendoCSharp\7-Loops\obj\Debug\net6.0\refint\7-Loops.dll
+E:\learnings\back\c#-learning\repos\AprendendoCSharp\7-Loops\obj\Debug\net6.0\7-Loops.pdb
+E:\learnings\back\c#-learning\repos\AprendendoCSharp\7-Loops\obj\Debug\net6.0\7-Loops.genruntimeconfig.cache
+E:\learnings\back\c#-learning\repos\AprendendoCSharp\7-Loops\obj\Debug\net6.0\ref\7-Loops.dll

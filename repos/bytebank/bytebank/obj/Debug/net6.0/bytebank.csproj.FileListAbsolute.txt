@@ -1,0 +1,15 @@
+E:\learnings\back\c#-learning\repos\bytebank\bytebank\bin\Debug\net6.0\bytebank.exe
+E:\learnings\back\c#-learning\repos\bytebank\bytebank\bin\Debug\net6.0\bytebank.deps.json
+E:\learnings\back\c#-learning\repos\bytebank\bytebank\bin\Debug\net6.0\bytebank.runtimeconfig.json
+E:\learnings\back\c#-learning\repos\bytebank\bytebank\bin\Debug\net6.0\bytebank.dll
+E:\learnings\back\c#-learning\repos\bytebank\bytebank\bin\Debug\net6.0\bytebank.pdb
+E:\learnings\back\c#-learning\repos\bytebank\bytebank\obj\Debug\net6.0\bytebank.csproj.AssemblyReference.cache
+E:\learnings\back\c#-learning\repos\bytebank\bytebank\obj\Debug\net6.0\bytebank.GeneratedMSBuildEditorConfig.editorconfig
+E:\learnings\back\c#-learning\repos\bytebank\bytebank\obj\Debug\net6.0\bytebank.AssemblyInfoInputs.cache
+E:\learnings\back\c#-learning\repos\bytebank\bytebank\obj\Debug\net6.0\bytebank.AssemblyInfo.cs
+E:\learnings\back\c#-learning\repos\bytebank\bytebank\obj\Debug\net6.0\bytebank.csproj.CoreCompileInputs.cache
+E:\learnings\back\c#-learning\repos\bytebank\bytebank\obj\Debug\net6.0\bytebank.dll
+E:\learnings\back\c#-learning\repos\bytebank\bytebank\obj\Debug\net6.0\refint\bytebank.dll
+E:\learnings\back\c#-learning\repos\bytebank\bytebank\obj\Debug\net6.0\bytebank.pdb
+E:\learnings\back\c#-learning\repos\bytebank\bytebank\obj\Debug\net6.0\bytebank.genruntimeconfig.cache
+E:\learnings\back\c#-learning\repos\bytebank\bytebank\obj\Debug\net6.0\ref\bytebank.dll

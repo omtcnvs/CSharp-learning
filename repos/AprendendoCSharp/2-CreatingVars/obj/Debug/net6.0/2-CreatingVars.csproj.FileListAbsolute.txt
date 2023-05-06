@@ -1,0 +1,15 @@
+E:\learnings\back\c#-learning\repos\AprendendoCSharp\2-CreatingVars\obj\Debug\net6.0\2-CreatingVars.csproj.AssemblyReference.cache
+E:\learnings\back\c#-learning\repos\AprendendoCSharp\2-CreatingVars\obj\Debug\net6.0\2-CreatingVars.GeneratedMSBuildEditorConfig.editorconfig
+E:\learnings\back\c#-learning\repos\AprendendoCSharp\2-CreatingVars\obj\Debug\net6.0\2-CreatingVars.AssemblyInfoInputs.cache
+E:\learnings\back\c#-learning\repos\AprendendoCSharp\2-CreatingVars\obj\Debug\net6.0\2-CreatingVars.AssemblyInfo.cs
+E:\learnings\back\c#-learning\repos\AprendendoCSharp\2-CreatingVars\obj\Debug\net6.0\2-CreatingVars.csproj.CoreCompileInputs.cache
+E:\learnings\back\c#-learning\repos\AprendendoCSharp\2-CreatingVars\bin\Debug\net6.0\2-CreatingVars.exe
+E:\learnings\back\c#-learning\repos\AprendendoCSharp\2-CreatingVars\bin\Debug\net6.0\2-CreatingVars.deps.json
+E:\learnings\back\c#-learning\repos\AprendendoCSharp\2-CreatingVars\bin\Debug\net6.0\2-CreatingVars.runtimeconfig.json
+E:\learnings\back\c#-learning\repos\AprendendoCSharp\2-CreatingVars\bin\Debug\net6.0\2-CreatingVars.dll
+E:\learnings\back\c#-learning\repos\AprendendoCSharp\2-CreatingVars\bin\Debug\net6.0\2-CreatingVars.pdb
+E:\learnings\back\c#-learning\repos\AprendendoCSharp\2-CreatingVars\obj\Debug\net6.0\2-CreatingVars.dll
+E:\learnings\back\c#-learning\repos\AprendendoCSharp\2-CreatingVars\obj\Debug\net6.0\refint\2-CreatingVars.dll
+E:\learnings\back\c#-learning\repos\AprendendoCSharp\2-CreatingVars\obj\Debug\net6.0\2-CreatingVars.pdb
+E:\learnings\back\c#-learning\repos\AprendendoCSharp\2-CreatingVars\obj\Debug\net6.0\2-CreatingVars.genruntimeconfig.cache
+E:\learnings\back\c#-learning\repos\AprendendoCSharp\2-CreatingVars\obj\Debug\net6.0\ref\2-CreatingVars.dll

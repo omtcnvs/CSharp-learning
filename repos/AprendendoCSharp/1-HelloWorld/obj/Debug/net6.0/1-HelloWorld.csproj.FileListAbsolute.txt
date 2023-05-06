@@ -1,0 +1,15 @@
+E:\learnings\back\c#-learning\repos\AprendendoCSharp\1-HelloWorld\bin\Debug\net6.0\1-HelloWorld.exe
+E:\learnings\back\c#-learning\repos\AprendendoCSharp\1-HelloWorld\bin\Debug\net6.0\1-HelloWorld.deps.json
+E:\learnings\back\c#-learning\repos\AprendendoCSharp\1-HelloWorld\bin\Debug\net6.0\1-HelloWorld.runtimeconfig.json
+E:\learnings\back\c#-learning\repos\AprendendoCSharp\1-HelloWorld\bin\Debug\net6.0\1-HelloWorld.dll
+E:\learnings\back\c#-learning\repos\AprendendoCSharp\1-HelloWorld\bin\Debug\net6.0\1-HelloWorld.pdb
+E:\learnings\back\c#-learning\repos\AprendendoCSharp\1-HelloWorld\obj\Debug\net6.0\1-HelloWorld.csproj.AssemblyReference.cache
+E:\learnings\back\c#-learning\repos\AprendendoCSharp\1-HelloWorld\obj\Debug\net6.0\1-HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+E:\learnings\back\c#-learning\repos\AprendendoCSharp\1-HelloWorld\obj\Debug\net6.0\1-HelloWorld.AssemblyInfoInputs.cache
+E:\learnings\back\c#-learning\repos\AprendendoCSharp\1-HelloWorld\obj\Debug\net6.0\1-HelloWorld.AssemblyInfo.cs
+E:\learnings\back\c#-learning\repos\AprendendoCSharp\1-HelloWorld\obj\Debug\net6.0\1-HelloWorld.csproj.CoreCompileInputs.cache
+E:\learnings\back\c#-learning\repos\AprendendoCSharp\1-HelloWorld\obj\Debug\net6.0\1-HelloWorld.dll
+E:\learnings\back\c#-learning\repos\AprendendoCSharp\1-HelloWorld\obj\Debug\net6.0\refint\1-HelloWorld.dll
+E:\learnings\back\c#-learning\repos\AprendendoCSharp\1-HelloWorld\obj\Debug\net6.0\1-HelloWorld.pdb
+E:\learnings\back\c#-learning\repos\AprendendoCSharp\1-HelloWorld\obj\Debug\net6.0\1-HelloWorld.genruntimeconfig.cache
+E:\learnings\back\c#-learning\repos\AprendendoCSharp\1-HelloWorld\obj\Debug\net6.0\ref\1-HelloWorld.dll

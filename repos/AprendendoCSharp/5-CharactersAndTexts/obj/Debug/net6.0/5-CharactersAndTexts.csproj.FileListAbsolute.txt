@@ -1,0 +1,15 @@
+E:\learnings\back\c#-learning\repos\AprendendoCSharp\5-CharactersAndTexts\bin\Debug\net6.0\5-CharactersAndTexts.exe
+E:\learnings\back\c#-learning\repos\AprendendoCSharp\5-CharactersAndTexts\bin\Debug\net6.0\5-CharactersAndTexts.deps.json
+E:\learnings\back\c#-learning\repos\AprendendoCSharp\5-CharactersAndTexts\bin\Debug\net6.0\5-CharactersAndTexts.runtimeconfig.json
+E:\learnings\back\c#-learning\repos\AprendendoCSharp\5-CharactersAndTexts\bin\Debug\net6.0\5-CharactersAndTexts.dll
+E:\learnings\back\c#-learning\repos\AprendendoCSharp\5-CharactersAndTexts\bin\Debug\net6.0\5-CharactersAndTexts.pdb
+E:\learnings\back\c#-learning\repos\AprendendoCSharp\5-CharactersAndTexts\obj\Debug\net6.0\5-CharactersAndTexts.csproj.AssemblyReference.cache
+E:\learnings\back\c#-learning\repos\AprendendoCSharp\5-CharactersAndTexts\obj\Debug\net6.0\5-CharactersAndTexts.GeneratedMSBuildEditorConfig.editorconfig
+E:\learnings\back\c#-learning\repos\AprendendoCSharp\5-CharactersAndTexts\obj\Debug\net6.0\5-CharactersAndTexts.AssemblyInfoInputs.cache
+E:\learnings\back\c#-learning\repos\AprendendoCSharp\5-CharactersAndTexts\obj\Debug\net6.0\5-CharactersAndTexts.AssemblyInfo.cs
+E:\learnings\back\c#-learning\repos\AprendendoCSharp\5-CharactersAndTexts\obj\Debug\net6.0\5-CharactersAndTexts.csproj.CoreCompileInputs.cache
+E:\learnings\back\c#-learning\repos\AprendendoCSharp\5-CharactersAndTexts\obj\Debug\net6.0\5-CharactersAndTexts.dll
+E:\learnings\back\c#-learning\repos\AprendendoCSharp\5-CharactersAndTexts\obj\Debug\net6.0\refint\5-CharactersAndTexts.dll
+E:\learnings\back\c#-learning\repos\AprendendoCSharp\5-CharactersAndTexts\obj\Debug\net6.0\5-CharactersAndTexts.pdb
+E:\learnings\back\c#-learning\repos\AprendendoCSharp\5-CharactersAndTexts\obj\Debug\net6.0\5-CharactersAndTexts.genruntimeconfig.cache
+E:\learnings\back\c#-learning\repos\AprendendoCSharp\5-CharactersAndTexts\obj\Debug\net6.0\ref\5-CharactersAndTexts.dll
